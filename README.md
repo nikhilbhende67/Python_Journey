@@ -1,6 +1,8 @@
 # Python_Journey
 In this repository, I’ll be documenting my progress as I learn Python. From basic syntax to more advanced topics, I’ll share code snippets, projects, and insights gained along the way.
 
+![python-15-min-scaled](https://github.com/nikhilbhende67/Python_Journey/assets/134313113/d63ed0b2-90ed-47cb-8a3f-540088a8f59b)
+
 ## 1. Fundamentals of Python
 
 1. **String Concatenation and Formatting**:
