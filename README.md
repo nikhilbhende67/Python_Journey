@@ -6,10 +6,8 @@ In this repository, I’ll be documenting my progress as I learn Python. From ba
 1. **String Concatenation and Formatting**:
    - How to print given strings in a specified format using separators and end parameters in the `print` function.
    - Different methods for string concatenation in Python, including using the `+` operator, the `round()` method, and the `format()` function.
-   - 
 2. **Conversion from Celsius to Fahrenheit**:
-   - Writing a program to convert temperature from Celsius to Fahrenheit using the formula $$F = C \times \frac{9}{5} + 32$$.
-     
+   - Writing a program to convert temperature from Celsius to Fahrenheit using the formula `F = C \times \frac{9}{5} + 32`.
 3. **Swapping Two Numbers**:
    - A method to swap two numbers without using temporary variables or special Python syntax.
 
@@ -23,10 +21,10 @@ In this repository, I’ll be documenting my progress as I learn Python. From ba
    - A program that calculates the number of dogs and chickens based on the total number of heads and legs .
 
 7. **Sum of Squares of First N Natural Numbers**:
-   - Writing a program to find the sum of squares of the first $$n$$ natural numbers .
+   - Writing a program to find the sum of squares of the first `n` natural numbers .
 
 8. **Finding the Nth Term of an Arithmetic Series**:
-   - A program to find the $$n$$th term of an arithmetic series given the first two terms .
+   - A program to find the `n`th term of an arithmetic series given the first two terms .
 
 9. **Sum of Two Fractions**:
    - Writing a program to find the sum of two given fractions .
