@@ -6,10 +6,10 @@ In this repository, I’ll be documenting my progress as I learn Python. From ba
 1. **String Concatenation and Formatting**:
    - How to print given strings in a specified format using separators and end parameters in the `print` function.
    - Different methods for string concatenation in Python, including using the `+` operator, the `round()` method, and the `format()` function.
-
+   - 
 2. **Conversion from Celsius to Fahrenheit**:
    - Writing a program to convert temperature from Celsius to Fahrenheit using the formula $$F = C \times \frac{9}{5} + 32$$.
-   - 
+     
 3. **Swapping Two Numbers**:
    - A method to swap two numbers without using temporary variables or special Python syntax.
 
